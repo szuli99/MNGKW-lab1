@@ -1,0 +1,2 @@
+Przesyłam także plik wejściowy, który zmodyfikowałem (usunąłem białe znaki z pustych komórek).
+W Pana pliku w niektórych pustych komórkach były białe znaki przez co przy testach wartość zwrócona przez moją funkcję nie była równa wartości komórki z pliku.
